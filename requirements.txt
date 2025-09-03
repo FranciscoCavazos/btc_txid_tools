@@ -1,0 +1,6 @@
+﻿pandas
+pyarrow
+openpyxl
+google-cloud-bigquery
+python-dotenv
+tqdm
